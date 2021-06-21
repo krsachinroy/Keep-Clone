@@ -1,0 +1,10 @@
+#navbar1 {
+  justify-content: start;
+  border: 1px solid lightblue;
+}
+#navbar3 {
+  justify-content: start;
+}
+#navbar2 {
+  justify-content: space-around;
+}
